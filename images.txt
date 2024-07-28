@@ -1,1 +1,4 @@
-kicbase/stable:v0.0.44
+docker.io/calico/cni:master
+docker.io/calico/node:master
+docker.io/calico/kube-controllers:master
+docker.io/calico/typha:master
